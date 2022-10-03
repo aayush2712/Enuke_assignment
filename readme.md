@@ -1,4 +1,4 @@
-# Enuke Assignment
+# Heliverse Assignment
 
 > Backend API for authenticated users to upload the image of maximum size of 500 KB.
 
